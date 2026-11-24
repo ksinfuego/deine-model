@@ -1,4 +1,4 @@
-<img width="4032" height="693" alt="image" src="https://github.com/user-attachments/assets/70f3a723-f56f-4e03-ae32-6dc758687e2b" /># deine-model
+# deine-model
 
 Your AI Model in a silicon based architecture
 
